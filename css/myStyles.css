@@ -1,0 +1,15 @@
+.topNav{
+    background-color: saddlebrown;
+    width: 100%;
+}
+
+
+/*Hamburger*/
+.hamburgerImg{
+    background: url(../images/hamburger.png);
+    width: 25px;
+}
+
+.square{
+    border: 2px solid;
+}
